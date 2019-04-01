@@ -1,1 +1,3 @@
 Race : Thiefling
+
+Background : Hermit

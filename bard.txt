@@ -1,1 +1,3 @@
 Race : Gnome
+
+Background : Entertainer
